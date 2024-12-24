@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado mecánico RGB",
+    "descripcion": "Teclado mecánico con iluminación RGB personalizable, ideal para gamers.",
+    "codigo": "TKRGB123",
+    "precio": 15000,
+    "stock": 25,
+    "categoria": "Teclados",
+    "imagenes": [
+      "http://localhost:8080/images/teclado.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse gamer inalámbrico",
+    "descripcion": "Mouse gamer con sensor óptico de alta precisión y botones programables.",
+    "codigo": "MOUSE456",
+    "precio": 8000,
+    "stock": 30,
+    "categoria": "Mouses",
+    "imagenes": [
+      "http://localhost:8080/images/mouse.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares con micrófono",
+    "descripcion": "Auriculares gaming con sonido envolvente 7.1 y micrófono desmontable.",
+    "codigo": "AUDIO789",
+    "precio": 12000,
+    "stock": 15,
+    "categoria": "Auriculares",
+    "imagenes": [
+      "http://localhost:8080/images/auris.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor 4K",
+    "descripcion": "Monitor de alta definición",
+    "codigo": "MON123",
+    "precio": 30000,
+    "estado": true,
+    "stock": 10,
+    "categoria": "Monitores",
+    "imagenes": [
+      "http://localhost:8080/images/monitor.jpg"
+    ]
+  }
+]
